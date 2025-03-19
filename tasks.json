@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": 1742399114083,
+    "text": "☕ Break (4:00 PM - 4:30 PM) ✅ Evening (4:30 PM - 7:00 PM)  Deploy updates (frontend/backend)  Review PRs (if working with a team)",
+    "completed": true
+  },
+  {
+    "id": 1742399127092,
+    "text": "project 🌙 Night (After 7:00 PM - Optional)  Code review & refactoring  Research new tech trends",
+    "completed": true
+  },
+  {
+    "id": 1742399208411,
+    "text": "Monday: Backend API Development (CRUD, Auth, Optimization) Tuesday: Database Management (Schema Design, Indexing, Queries)",
+    "completed": false
+  },
+  {
+    "id": 1742399225550,
+    "text": "project 🌙 Night (After 7:00 PM - Optional)  Code review & refactoring  Research new tech trends",
+    "completed": false
+  },
+  {
+    "id": 1742399243523,
+    "text": "Saturday: Learning & Research (New Tech, Open Source) Sunday: Code Refactoring & Side Projects",
+    "completed": false
+  }
+]
